@@ -1,4 +1,4 @@
-# response_generation_in_multi-modal_dialogues
+# Response Generation In Multi-modal Dialogues
 This repository contains the following components:
 
 1. models.py: Code for the model definition.
