@@ -5,4 +5,4 @@ This repository contains the following components:
 2. train.py: Code for training the model.
 3. train_contrast_with_generation.py: Code for pre-training the model.
 
-Dataset can be download [here](https://pan.baidu.com/s/16Sq9MJozcOdOk5BDXEN27g) retrieval code：4tme
+Dataset can be download [here](https://pan.baidu.com/s/16Sq9MJozcOdOk5BDXEN27g). retrieval code：4tme
